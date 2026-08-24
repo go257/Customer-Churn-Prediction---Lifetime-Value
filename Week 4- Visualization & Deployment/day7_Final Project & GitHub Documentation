@@ -1,0 +1,68 @@
+# Customer Churn Prediction & Lifetime Value
+
+## Project Overview
+
+This project predicts customer churn and estimates Customer Lifetime Value (LTV).
+
+The project uses customer information such as:
+
+- Customer tenure
+- Monthly charges
+- Customer prediction history
+
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Flask
+- PostgreSQL
+- SQL
+- Bootstrap
+
+## Project Structure
+
+### Week 1
+Data Ingestion & Exploratory Data Analysis
+
+### Week 2
+Feature Engineering & Predictive Modeling
+
+### Week 3
+LTV Calculation & API Development
+
+### Week 4
+Visualization & Deployment
+
+### Week 5
+SQL Integration using PostgreSQL
+
+## Week 4 Features
+
+### Day 1
+Bar chart visualization.
+
+### Day 2
+Pie chart visualization.
+
+### Day 3
+Line chart visualization.
+
+### Day 4
+Customer churn dashboard.
+
+### Day 5
+Flask dashboard integration.
+
+### Day 6
+Project optimization and error handling.
+
+### Day 7
+Final project documentation.
+
+## How to Run
+
+Install required packages:
+
+```bash
+pip install pandas matplotlib flask
